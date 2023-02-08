@@ -1,2 +1,2 @@
 # Machine-Learning-Tutorials
-Tutorials for BSE people
+Tutorials for B Tech class
